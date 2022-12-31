@@ -1,6 +1,8 @@
-﻿# *Tunisair-ENSI travel agency* ✈️
-once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purpose .!
-(https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321788408_688534736149337_714876014067655136_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2KCjPUQn4UYAX-IAbv1&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTRJRSr5bejdvTfdI7mgIJ5R8kNQQ03Nh7okh9TYuBuDQ&oe=63D7CC6A)
+# *Tunisair-ENSI travel agency* ✈️
+once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purpose .
+
+![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321788408_688534736149337_714876014067655136_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2KCjPUQn4UYAX-IAbv1&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTRJRSr5bejdvTfdI7mgIJ5R8kNQQ03Nh7okh9TYuBuDQ&oe=63D7CC6A)
+
 
 1 - Client  : 
 ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321421683_486335763582485_5731640649417185805_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xuPiUBwFjTkAX8Y6Y0g&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTqvKvflF5N33nbgkPA3Bf8kOoZjyt2Hboi4Wu4LJbJ3w&oe=63D7C4D6)
@@ -33,4 +35,3 @@ this calls a function named `saisir()` that allows the admin to add any number o
 ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321422546_1534899770347113_7568654052852880242_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=45JOWJopIwgAX_29USV&_nc_ht=scontent.ftun4-2.fna&oh=03_AdQmn87vZxvbCG57_DONP84FP6a-p5SHNHGAbs40PIUAMg&oe=63D7C62F)
 - afficher toutes les voyages : 
 this calls a function named `afficher()` that takes the date base's name ( which is a file ) as a parameter and displays all of its content . ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/322125148_1103452113662303_8178863986054934208_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Yl1Yg8knEmYAX8VA4T7&tn=YpVRh6Bn7I98kOjE&_nc_ht=scontent.ftun4-2.fna&oh=03_AdSyBH8eTilTnOHbdprPWvHmXlsvDdS7PdvfRWdo73A5zw&oe=63D7B53A)
-
