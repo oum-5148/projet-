@@ -20,10 +20,9 @@ once you start the application , you will first have to identify as a client or 
  
  There are two ways to look for a trip : 
       - the first calls a function named `rechercher()` that allows you to narrow your research by entering two dates , it then displays the flights in between those dates . 
-      
+     
       ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/322137696_666296558613323_1938000735107479493_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=PPy2T3pIQxcAX95_R4z&_nc_ht=scontent.ftun4-2.fna&oh=03_AdRGxs9hu1kINCRlh995K3PpIJB4_KaUDre24qMMcWp8bQ&oe=63D7B0D0)
-    
-    
+   
     - the second calls a function named `rechercher1()` that displays the flights available on a specific date entered by the user . 
  ⛔The trips are stocked in a file named  `basededonnee`  that has all of the available trips in the format **(departure/destination/date)** . 
 - Afficher le panier : 
