@@ -1,12 +1,17 @@
 ﻿# *Tunisair-ENSI travel agency* ✈️
-once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purpose .![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321788408_688534736149337_714876014067655136_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2KCjPUQn4UYAX-IAbv1&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTRJRSr5bejdvTfdI7mgIJ5R8kNQQ03Nh7okh9TYuBuDQ&oe=63D7CC6A)
+once you start the application , you will first have to identify as a client or as an admin , for the record each one has its own functions and purpose .
+
+![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321788408_688534736149337_714876014067655136_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=2KCjPUQn4UYAX-IAbv1&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTRJRSr5bejdvTfdI7mgIJ5R8kNQQ03Nh7okh9TYuBuDQ&oe=63D7CC6A)
 
 1 - Client  : 
 ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321421683_486335763582485_5731640649417185805_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xuPiUBwFjTkAX8Y6Y0g&_nc_ht=scontent.ftun4-2.fna&oh=03_AdTqvKvflF5N33nbgkPA3Bf8kOoZjyt2Hboi4Wu4LJbJ3w&oe=63D7C4D6)
- - saisir un voyage : 
+
+- saisir un voyage : 
  this calls the function named `ajout-voyage()` that takes different inputs from user to fill out the details of the trip such as destination , date , hotel...
+ 
  ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/322812534_838588790735285_3295141610088920335_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=trRtRFwIrREAX9Sb641&_nc_ht=scontent.ftun4-2.fna&oh=03_AdT3RIkRySn-H5MUzghydxLrBdDNXEYQJcS5PSWDRjSIUQ&oe=63D7A6AA)
- -  chercher un voyage : 
+
+-  chercher un voyage : 
  ![enter image description here](https://scontent.ftun4-2.fna.fbcdn.net/v/t1.15752-9/321524182_3526220397660270_8658667390714568446_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=Z0XfI_JYvxcAX8wEfQO&tn=YpVRh6Bn7I98kOjE&_nc_ht=scontent.ftun4-2.fna&oh=03_AdQBL1OixYqqnFW34K_UCIWsF3nQB20GcJ9YxE3jWIJp4Q&oe=63D7D130)
  There are two ways to look for a trip : 
       - the first calls a function named `rechercher()` that allows you to narrow your research by entering two dates , it then displays the flights in between those dates . 
